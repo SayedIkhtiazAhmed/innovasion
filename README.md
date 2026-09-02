@@ -1,5 +1,3 @@
-# innovasion
-My first frontend development project built with HTML and CSS, featuring an anime-inspired web design.
 # Innovasion
 
 My first ever frontend development project, built using HTML and CSS.
